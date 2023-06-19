@@ -13,7 +13,7 @@ It's a list of credible free resources for tech learning that I have discovered,
 
 - [Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode) - Teaches Web-dev with the best industry-followed practices.
 - [Kunal Kushwaha](https://www.youtube.com/@KunalKushwaha) - Good for DSA, Dev-Ops, and Open Source.
-- [Harkirat Singh](https://www.youtube.com/@WebDevSimplified) - Few cringe thumbnails but great for web/web3 and Open Source Development.
+- [Harkirat Singh](https://www.youtube.com/@harkirat1) - Few cringe thumbnails but great for web/web3 and Open Source Development.
 - [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified) - Web Development sub-topics in concise and short videos.
 - [freeCodeCamp](https://www.youtube.com/@freecodecamp) - Overwhelming content at first but teaches about almost every tech field.
 
